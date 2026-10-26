@@ -1,0 +1,8 @@
+{
+  "name": "dealer_evaluation_frontend",
+  "version": "1.0.0",
+  "description": "Product Price Comparison Application Frontend and Local Dev Server",
+  "scripts": {
+    "start": "node local_dev_server.js"
+  }
+}
